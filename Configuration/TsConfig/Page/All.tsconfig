@@ -1,0 +1,5 @@
+#
+# PageTS for cf cookiemanager uikit
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:cf_cookiemanager_uikit/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:cf_cookiemanager_uikit/Configuration/TsConfig/Page/TCEMAIN.tsconfig">

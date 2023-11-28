@@ -1,0 +1,16 @@
+######################
+#### DEPENDENCIES ####
+######################
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:fluid_styled_content/Configuration/TypoScript/constants.typoscript">
+
+
+##############################
+#### FLUID STYLED CONTENT ####
+##############################
+styles {
+    templates {
+        layoutRootPath = EXT:cf_cookiemanager_uikit/Resources/Private/Layouts/ContentElements/
+        partialRootPath = EXT:cf_cookiemanager_uikit/Resources/Private/Partials/ContentElements/
+        templateRootPath = EXT:cf_cookiemanager_uikit/Resources/Private/Templates/ContentElements/
+    }
+}

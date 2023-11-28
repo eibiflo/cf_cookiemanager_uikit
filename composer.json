@@ -1,0 +1,22 @@
+{
+    "name": "codingfreaks/cf-cookiemanager-uikit",
+    "type": "typo3-cms-extension",
+    "description": "An Demo UI Kit for the Cookie Manager",
+    "homepage": "https://coding-freaks.com",
+    "license": ["GPL-2.0-or-later"],
+    "keywords": ["TYPO3 CMS"],
+    "require": {
+        "typo3/cms-core": "^12.4",
+        "typo3/cms-fluid-styled-content": "^12.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodingFreaks\\CfCookiemanagerUikit\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "cf_cookiemanager_uikit"
+        }
+    }
+}

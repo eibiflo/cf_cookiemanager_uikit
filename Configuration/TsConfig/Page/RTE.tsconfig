@@ -1,0 +1,8 @@
+#############
+#### RTE ####
+#############
+#RTE {
+#    default {
+#        preset = cf_cookiemanager_uikit
+#    }
+#}
