@@ -16,3 +16,11 @@ $GLOBALS['TYPO3_CONF_VARS']['EXTENSIONS']['cf_cookiemanager']['CF_SETTINGSMODAL_
 ```
 
 The ID of the HTML elements if important for the Frontend Functionality. Please do not change the ID's, this breaks the functionality.
+
+## TODO List
+
+- [ ] Add more Frontend-UIKit Templates
+- [ ] Add an CSS Example Override
+- [ ] Add a Font Example Override
+- [ ] Add an JS Example Override for API calls
+- [ ] Request for more Examples
