@@ -1,0 +1,12 @@
+
+# Override the template path for the cookie frontend Plugin (Consent-Management-Button on every page)
+plugin.tx_cfcookiemanager_cookiefrontend {
+    view {
+        templateRootPaths.1727778204 = EXT:cf_cookiemanager_uikit/Resources/Private/Templates/CFCookiemanager/
+    }
+}
+
+# Override the template path for the cookie list Plugin
+plugin.tx_cfcookiemanager_cookielist.view.templateRootPaths{
+    1727778204 = EXT:cf_cookiemanager_uikit/Resources/Private/Templates/CFCookiemanager/
+}
